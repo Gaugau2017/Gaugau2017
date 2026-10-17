@@ -1,6 +1,5 @@
 <div align="center">
 
-# Salut, moi c’est Gautier 👋
 ### Étudiant en informatique | Projets & développement
 
 Je construis mes compétences à travers mes cours, mes projets et mes SAE.
