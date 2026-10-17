@@ -15,9 +15,8 @@ Je construis mes compétences à travers mes cours, mes projets et mes SAE.
 ### À propos
 
 - 🎓 Étudiant en informatique à l’université.
-- 💻 J’apprends et je pratique la programmation à travers des projets universitaires.
+- 💻 J’apprends et je pratique la programmation à travers des projets universitaires et personnel.
 - 🧩 Je travaille notamment sur des projets en Java, PHP/Laravel, développement web et SQL.
-- 🚀 Ce profil rassemble progressivement mes projets et mon évolution.
 
 ### 🛠️ Technologies et outils abordés
 
@@ -45,7 +44,7 @@ Je construis mes compétences à travers mes cours, mes projets et mes SAE.
 
 ### 🎯 Objectif
 
-Continuer à progresser, apprendre de nouvelles méthodes de développement et construire un portfolio représentatif de mes projets.
+Découvrir de nouveaux langages de programmation, approfondir mes connaissances et développer mes compétences en programmation à travers différents projets.
 
 ---
 
@@ -54,9 +53,8 @@ Continuer à progresser, apprendre de nouvelles méthodes de développement et c
 ### About me
 
 - 🎓 Computer science student at university.
-- 💻 Learning and practising programming through academic projects.
+- 💻 Learning and practising programming through academic projects and personnal.
 - 🧩 Exploring Java, PHP/Laravel, web development and SQL.
-- 🚀 Using this profile to share projects and track my progress.
 
 ### 🛠️ Technologies and tools explored
 
@@ -84,7 +82,7 @@ Continuer à progresser, apprendre de nouvelles méthodes de développement et c
 
 ### 🎯 Goal
 
-Keep learning, improve my development skills and build a portfolio that reflects my progress.
+Discover new programming languages, deepen my knowledge and improve my programming skills through different projects.
 
 ---
 
