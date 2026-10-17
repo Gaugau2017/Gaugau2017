@@ -36,8 +36,6 @@ Je construis mes compétences à travers mes cours, mes projets et mes SAE.
 
 ### 📌 Projets
 
-Retrouve ici mes projets de cours et mes réalisations. Les liens seront ajoutés au fur et à mesure que les dépôts seront publiés.
-
 | Projet / domaine | Description |
 |---|---|
 | **Java** | Exercices et projets de programmation orientée objet. |
@@ -76,8 +74,6 @@ Continuer à progresser, apprendre de nouvelles méthodes de développement et c
 *These technologies have been covered in my coursework and projects; the badges do not imply expert-level proficiency.*
 
 ### 📌 Projects
-
-This profile will gradually feature coursework and projects.
 
 | Project area | Description |
 |---|---|
