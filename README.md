@@ -88,8 +88,6 @@ Discover new programming languages, deepen my knowledge and improve my programmi
 
 <div align="center">
 
-[Mon GitHub · My GitHub](https://github.com/Gaugau2017)
-
-*Merci de visiter mon profil ! · Thanks for visiting my profile!*
+*Merci d’avoir visité mon profil ! · Thank you for visiting my profile!*
 
 </div>
