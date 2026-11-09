@@ -1,93 +1,57 @@
 <div align="center">
 
-### Étudiant en informatique | Projets & développement
+# Salut, moi c’est Gautier 👋
 
-Je construis mes compétences à travers mes cours, mes projets et mes SAE.
+**Étudiant en BUT Informatique · Développeur application & web**
 
-[🇫🇷 Français](#-français) · [🇬🇧 English](#-english)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gautier_Tinchon-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gautier-tinchon-952668438/)
+[![E-mail](https://img.shields.io/badge/E--mail-tinchongautier%40gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:tinchongautier@gmail.com)
 
 </div>
 
 ---
 
-## 🇫🇷 Français
+## À propos
 
-### À propos
+- 🎓 Étudiant en **BUT Informatique**
+- 💻 Je m’intéresse au **développement d’applications et de sites web**
+- 🧩 J’aime **l’algorithmique** : construire une solution pas à pas, comparer les approches, vérifier les résultats
+- 🗄️ Je travaille aussi sur la **gestion de données** et les bases de données
+- 📫 Pour me contacter : [LinkedIn](https://www.linkedin.com/in/gautier-tinchon-952668438/) ou [tinchongautier@gmail.com](mailto:tinchongautier@gmail.com)
 
-- 🎓 Étudiant en informatique à l’université.
-- 💻 J’apprends et je pratique la programmation à travers des projets universitaires et personnel.
-- 🧩 Je travaille notamment sur des projets en Java, PHP/Laravel, développement web et SQL.
+## Projet à la une : mon portfolio
 
-### 🛠️ Technologies et outils abordés
+<a href="https://github.com/Gaugau2017/portfolio"><img src="images/portfolio-accueil.webp" alt="Portfolio de Gautier Tinchon"></a>
 
-<p>
-  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-  <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-</p>
+Un portfolio mis en scène comme une **réincarnation façon RPG** : le « système » détecte une compétence unique, l’acquiert, puis débloque le site. On le parcourt ensuite partie par partie, guidé par un cercle magique.
 
-*Ces technologies ont été abordées dans mes cours et projets ; les badges ne représentent pas un niveau expert.*
+| Introduction | Compétences | Formulaire de contact |
+|:---:|:---:|:---:|
+| ![Acquisition de la compétence](images/intro-acquisition.webp) | ![Compétences](images/competences.webp) | ![Envoi du formulaire](images/contact-echec.webp) |
 
-### 📌 Projets
+**Ce qu’il contient :**
+- une introduction cinématique avec fenêtres système, glitch, explosion de lumière et jauge d’acquisition ;
+- un fond animé en **WebGL**, avec des shaders écrits à la main et une qualité qui s’adapte à la machine ;
+- une navigation en chapitres, des cadres qui se forment à partir d’éclats de cristal puis se décodent ;
+- un formulaire qui envoie vraiment les messages par e-mail, avec une animation d’échecs puis de réussite ;
+- une version bilingue FR / EN, responsive et accessible.
 
-| Projet / domaine | Description |
-|---|---|
-| **Java** | Exercices et projets de programmation orientée objet. |
-| **Laravel / PHP** | Développement d’applications web dans le cadre de travaux pratiques. |
-| **Développement web** | Réalisation de sites et de fonctionnalités web dans le cadre de projets et de SAE. |
-| **SQL / Bases de données** | Requêtes, fonctions et travail avec des bases de données relationnelles. |
+**Technologies :**
 
-### 🎯 Objectif
+![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white)
+![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white)
 
-Découvrir de nouveaux langages de programmation, approfondir mes connaissances et développer mes compétences en programmation à travers différents projets.
-
----
-
-## 🇬🇧 English
-
-### About me
-
-- 🎓 Computer science student at university.
-- 💻 Learning and practising programming through academic projects and personnal.
-- 🧩 Exploring Java, PHP/Laravel, web development and SQL.
-
-### 🛠️ Technologies and tools explored
-
-<p>
-  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-  <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-</p>
-
-*These technologies have been covered in my coursework and projects; the badges do not imply expert-level proficiency.*
-
-### 📌 Projects
-
-| Project area | Description |
-|---|---|
-| **Java** | Object-oriented programming exercises and projects. |
-| **Laravel / PHP** | Web application development as part of practical coursework. |
-| **Web development** | Websites and web features built for projects and coursework. |
-| **SQL / Databases** | Queries, functions and relational database work. |
-
-### 🎯 Goal
-
-Discover new programming languages, deepen my knowledge and improve my programming skills through different projects.
+<!-- Quand le site est en ligne, décommente la ligne suivante et mets le bon lien :
+[▶ **Voir le portfolio en ligne**](https://xxxxx.vercel.app)
+-->
 
 ---
 
 <div align="center">
 
-*Merci d’avoir visité mon profil ! · Thank you for visiting my profile!*
+*Le code, c’est ma compétence unique.* ✨
 
 </div>
