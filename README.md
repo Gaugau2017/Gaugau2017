@@ -100,11 +100,11 @@ Un portfolio mis en scène comme une **réincarnation façon RPG** : le « syst�
 - 🙋 **Bénévolat**, Mairie de Boubers-sur-Canche (juillet 2026) : assistance des équipes techniques lors de la fête nationale du 14 juillet
 
 ## En plus
-
+<div align="center">
 | Atouts | Langues | Centres d’intérêt |
 |---|---|---|
 | Sérieux · Dynamique · Motivé · Curieux · Créatif | 🇫🇷 Français : langue maternelle<br>🇬🇧 Anglais : niveau B2 | 🎮 Jeux vidéo<br>💻 Programmation<br>🏐 Volley-ball<br>♟️ Échecs |
-
+</div>
 ---
 
 <div align="center">
