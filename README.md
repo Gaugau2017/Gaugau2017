@@ -89,24 +89,6 @@ Un portfolio mis en scène comme une **réincarnation façon RPG** : le « syst�
 | **Tower defense 2D** | Personnel · en équipe | C#, Godot, GitHub |
 | **Plateformer 2D** | Personnel · solo | C#, Unity |
 
-## Formation
-
-- 🎓 **BUT Informatique, 2<sup>e</sup> année**, IUT de Lens (depuis 2025)
-- 📘 **Bac technologique STI2D** (Sciences et Technologies de l’Industrie et du Développement Durable), Lycée Albert Châtelet, Saint-Pol-sur-Ternoise (2022 – 2025)
-
-## Expériences
-
-- 🤝 **Membre du bureau des étudiants**, BDE Informatique, IUT de Lens (depuis septembre 2026) : organisation d’événements pour les étudiants du département informatique
-- 🙋 **Bénévolat**, Mairie de Boubers-sur-Canche (juillet 2026) : assistance des équipes techniques lors de la fête nationale du 14 juillet
-
-## En plus
-<div align="center">
-| Atouts | Langues | Centres d’intérêt |
-|---|---|---|
-| Sérieux · Dynamique · Motivé · Curieux · Créatif | 🇫🇷 Français : langue maternelle<br>🇬🇧 Anglais : niveau B2 | 🎮 Jeux vidéo<br>💻 Programmation<br>🏐 Volley-ball<br>♟️ Échecs |
-</div>
----
-
 <div align="center">
 
 *Le code, c’est ma compétence unique.* ✨
