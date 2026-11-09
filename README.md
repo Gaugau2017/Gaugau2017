@@ -1,5 +1,7 @@
 <div align="center">
 
+**🇫🇷 Français** · [🇬🇧 English](README.en.md)
+
 # Salut, moi c’est Gautier 👋
 
 **Étudiant en 2<sup>e</sup> année de BUT Informatique · IUT de Lens**
