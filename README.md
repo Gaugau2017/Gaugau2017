@@ -92,12 +92,6 @@ Un portfolio mis en scène comme une **réincarnation façon RPG** : le « syst�
 | **Tower defense 2D** | Personnel · en équipe | C#, Godot, GitHub |
 | **Plateformer 2D** | Personnel · solo | C#, Unity |
 
-<div align="center">
-
-*Le code, c’est ma compétence unique.* ✨
-
-</div>
-
 </details>
 
 <details>
@@ -193,11 +187,5 @@ A portfolio staged like an **RPG reincarnation**: the “system” detects a uni
 | **Web page for an electronics repair shop** | University · team of 3 · 1st year | HTML, CSS |
 | **2D tower defense** | Personal · team | C#, Godot, GitHub |
 | **2D platformer** | Personal · solo | C#, Unity |
-
-<div align="center">
-
-*Code is my unique skill.* ✨
-
-</div>
 
 </details>
