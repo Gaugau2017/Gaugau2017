@@ -61,6 +61,8 @@
 
 ## Projet à la une : mon portfolio
 
+🌐 **Portfolio** : [gautier-tinchon.vercel.app](https://gautier-tinchon.vercel.app)
+
 <a href="https://github.com/Gaugau2017/portfolio"><img src="images/portfolio-accueil.webp" alt="Portfolio de Gautier Tinchon"></a>
 
 Un portfolio mis en scène comme une **réincarnation façon RPG** : le « système » détecte une compétence unique, l’acquiert, puis débloque le site. On le parcourt ensuite partie par partie, guidé par un cercle magique.
@@ -156,6 +158,8 @@ I’m a second-year Computer Science student: serious, motivated and eager to le
 ![Unity](https://img.shields.io/badge/Unity-222C37?logo=unity&logoColor=white)
 
 ## Featured project: my portfolio
+
+🌐 **Portfolio** : [gautier-tinchon.vercel.app](https://gautier-tinchon.vercel.app)
 
 <a href="https://github.com/Gaugau2017/portfolio"><img src="images/portfolio-accueil.webp" alt="Gautier Tinchon’s portfolio"></a>
 
